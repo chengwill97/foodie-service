@@ -152,4 +152,6 @@ dependencies:
   - zeromq=4.3.5=h313beb8_0
   - zipp=3.21.0=py313hca03da5_0
   - zlib=1.2.13=h18a0788_1
+  - pip:
+      - python-dotenv==1.0.1
 prefix: /Users/williamcheng/miniconda3/envs/foodie
